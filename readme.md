@@ -46,5 +46,12 @@
 * Create server
 * Read request and return response
 
+## REPL terminal
+
+* *read* - read users input, parse the inpit to js data-structure and put it into memory
+* *eval* - take the evaluates the data structure
+* *print* - print result
+* *loop* - lops above comands before user press ctrl-c twice
+
 
 
