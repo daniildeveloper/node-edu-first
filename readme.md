@@ -74,3 +74,8 @@ By default npm install any dependency in the local mode and store it in `node_mo
 * `install`
 * `update`
 * `search` 
+
+## Callback function
+
+Callback is an asynchonous equivalent for the function. Callback function is called at the completion og the given task. All API are built to use callbacks.
+
