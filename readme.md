@@ -53,5 +53,24 @@
 * *print* - print result
 * *loop* - lops above comands before user press ctrl-c twice
 
+## npm
 
+Node Package Manager (npm) provide two functionalities:
+* online repostories for node.js packages/modules which are searchable
+* cmd utility to install node packages, do version and dependency managment
 
+### Installing modules
+```npm install <Module name>```  
+
+### Global and local
+
+By default npm install any dependency in the local mode and store it in `node_modules` folder in app project folder. Localy deployed packages are accessible via `require()` method. Globaly installed modules cannot be required directly.
+
+`npm ls` - log all localy installed modules
+
+### module commands
+
+* `uninstall`
+* `install`
+* `update`
+* `search` 

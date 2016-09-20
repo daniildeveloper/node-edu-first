@@ -1,0 +1,24 @@
+{
+  "name": "node-edu-first",
+  "version": "1.0.0",
+  "description": "Node tips and trics repo. Main is readme.md. Code is to see and test how all works.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniiltsern/node-edu-first.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "tips&tricks"
+  ],
+  "author": "daniiltserin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daniiltsern/node-edu-first/issues"
+  },
+  "homepage": "https://github.com/daniiltsern/node-edu-first#readme"
+}
